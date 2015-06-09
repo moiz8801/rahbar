@@ -1,0 +1,15 @@
+<style media="screen">
+    .sideheading {
+      width:200px;
+      display:inline-block;
+  }
+      .textcolor{
+        color:red
+      }
+       #bigheading{
+         color:blue;
+       }
+       p{
+         font-size:23px
+       }
+       </style>
